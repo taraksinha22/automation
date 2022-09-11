@@ -1,2 +1,2 @@
-# automation
-Automation testing framework using Jenkins
+# Automation
+# Crash Course on Python
